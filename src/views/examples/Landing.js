@@ -85,9 +85,7 @@ class Landing extends React.Component {
                         <span>completed with examples</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      Coding is an international language just like English. If you want to foresee the future and be part of the community-who sees its content and works on developing it by themselves, you ought to learn the coding language.
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -120,7 +118,7 @@ class Landing extends React.Component {
               {/* SVG separator */}
               <div className="separator separator-bottom separator-skew">
                 <svg
-                  xmlns="http://www.w3.org/2000/svg"
+                  xmlns="https://luxurybookstore.github.io/luxurybookstore/"
                   preserveAspectRatio="none"
                   version="1.1"
                   viewBox="0 0 2560 100"
@@ -148,12 +146,10 @@ class Landing extends React.Component {
                             <i className="ni ni-check-bold" />
                           </div>
                           <h6 className="text-primary text-uppercase">
-                            Download Argon
+                           201 project
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            this is the firsrt project 
                           </p>
                           <div>
                             <Badge color="primary" pill className="mr-1">
@@ -184,12 +180,10 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                          301 project
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                            in futctur.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
@@ -220,12 +214,10 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            Prepare Launch
+                           401 project
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                           in future.
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
